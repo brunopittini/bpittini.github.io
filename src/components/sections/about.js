@@ -135,30 +135,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+              exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+              dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+              mollit anim id est laborum. &amp; CSS!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://wikipedia.com/">sed do eiusmod tempor incididunt ut</a>,{' '}
+              <a href="https://wikipedia.com">Nemo enim ipsam voluptatem quia voluptas</a>,{' '}
+              <a href="https://wikipedia.com/">sit aspernatur aut odit aut fugit</a>, and{' '}
+              <a href="https://wikipedia.com/">
+                AUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
+                laboriosam <a href="wikipedia.com">Imperium Data</a> Nam libero tempore, cum soluta
+                nobis est eligendi optio cumque
+              </a>
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              At vero eos et accusamus{' '}
+              <a href="https://www.linkedin.com/in/brunopittini/">launched a course</a> et iusto
+              odio dignissimos voluptate velit esse quam nihil molestiae &amp; iusto.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
