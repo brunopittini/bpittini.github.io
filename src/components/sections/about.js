@@ -158,7 +158,7 @@ const About = () => {
             <p>
               At vero eos et accusamus{' '}
               <a href="https://www.linkedin.com/in/brunopittini/">launched a course</a> et iusto
-              odio dignissimos voluptate velit esse quam nihil molestiae &amp; iusto.
+              odio dignissimos voluptate velit esse quam nihil molestiae &amp; iust.
             </p>
 
             <p>Here are some technologies I’ve been working with recently:</p>
